@@ -1,0 +1,23 @@
+{
+  "name": "mdbfree",
+  "version": "3.4.1",
+  "description": "MDBFree downloaded from MDB with free license added here just for webjar use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heurze/MDBFree.git"
+  },
+  "keywords": [
+    "MDB",
+    "FREE"
+  ],
+  "author": "Heurze <heurze@yahoo.com> (https://github.com/heurze)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heurze/MDBFree/issues"
+  },
+  "homepage": "https://github.com/heurze/MDBFree#readme"
+}
